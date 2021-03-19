@@ -1,5 +1,5 @@
 
- # Hello  <img align="rigth" width="50" height="50" src="https://images.emojiterra.com/google/android-11/512px/1f525.png"> 
+ # Hello everyone <img align="rigth" width="50" height="50" src="https://images.emojiterra.com/google/android-11/512px/1f525.png"> 
  # I'm a Brazilian Computer Networking Student and currently working as Front-End developer at Mestria.
  
  # Languages and another stuff that i'am studing in nowadays:
