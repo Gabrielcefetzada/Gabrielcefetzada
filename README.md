@@ -13,7 +13,7 @@
  <img align="left" width="70" height="70" src="https://image.flaticon.com/icons/png/512/919/919826.png">
  <img align="left" width="70" height="70" src="https://mauriciomikulski.github.io/img/logos/html.png">
  <img align="left" width="70" height="70" src="https://brandslogos.com/wp-content/uploads/thumbs/php-logo-vector.svg">
- <img align="left" width="70" height="70" src="https://gsan.com.br/lib/exe/fetch.php?cache=&media=ajuda:nodejs-logo.png">
+ <img align="left" width="70" height="70" src="https://img.icons8.com/color/452/nodejs.png">
 
 # Here you will find repositories in portuguese and in english.
 
