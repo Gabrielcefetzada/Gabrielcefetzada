@@ -11,5 +11,5 @@
  <img align="left" width="50" height="50" src="https://brandslogos.com/wp-content/uploads/thumbs/php-logo-vector.svg">
  <img align="left" width="50" height="50" src="https://img.icons8.com/color/452/nodejs.png"><br></br>
 
- Here you will find repositories in portuguese and in english.
+ 
 
