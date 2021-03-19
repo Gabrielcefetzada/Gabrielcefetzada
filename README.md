@@ -9,7 +9,7 @@
  - ReactJs
  - CSS & HTML
  - Java
- ![](https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png)
+ <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 
 # Here you will find repositories in portuguese and in english.
 
