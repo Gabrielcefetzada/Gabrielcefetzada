@@ -9,7 +9,11 @@
  - ReactJs
  - CSS & HTML
  - Java
- <img align="left" width="100" height="100" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
+ <img align="center" width="70" height="70" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
+ <img align="center" width="70" height="70" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
+ <img align="center" width="70" height="70" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
+ <img align="center" width="70" height="70" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
+ <img align="center" width="70" height="70" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
 
 # Here you will find repositories in portuguese and in english.
 
