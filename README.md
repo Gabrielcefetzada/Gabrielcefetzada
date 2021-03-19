@@ -9,6 +9,7 @@
  - ReactJs
  - CSS & HTML
  - Java
+ ![GitHub Logo]('https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png')
 
 # Here you will find repositories in portuguese and in english.
 
