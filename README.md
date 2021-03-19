@@ -1,5 +1,5 @@
 
- # Hello !  
+ # Hello  <img align="left" width="50" height="50" src="ttps://www.gifmania.com/Gif-Animados-Espacio/Imagenes-Astronomia/Cohetes-Espaciales/Cohete-Espacial-85168.gif"> h
  # I'm a Brazilian Computer Networking Student and currently working as Front-End developer at Mestria.
  
  # Languages and another stuff that i'am studing in nowadays:
