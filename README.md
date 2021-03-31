@@ -1,6 +1,6 @@
 
  # Hello everyone <img align="rigth" width="50" height="50" src="https://images.emojiterra.com/google/android-11/512px/1f525.png"> 
- # I'm a Brazilian Computer Networking Student and currently working as Front-End Trainee at Mestria.
+ # I'm a Brazilian Computer Networking Student and currently working as Front-End ans mobile Trainee at Mestria.
  
   Languages and another stuff that i'am studing in nowadays:
  
