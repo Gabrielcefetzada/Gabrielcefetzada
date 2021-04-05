@@ -10,7 +10,7 @@
  <img align="left" width="60" height="60" src="https://image.flaticon.com/icons/png/512/919/919826.png">
  <img align="left" width="60" height="60" src="https://mauriciomikulski.github.io/img/logos/html.png">
  <img align="left" width="60" height="60" src="https://brandslogos.com/wp-content/uploads/thumbs/php-logo-vector.svg">
- <img align="left" width="60" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC3rW8XsouaS0ZcaBsSh7Da2J0YO3lioCR-0i9JbhUU37v_5SknvPzXBFHyzsM8tNlS8k&usqp=CAU">
+ <img align="left" width="60" height="60" src="https://img2.gratispng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg">
 
  
 
