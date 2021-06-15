@@ -1,10 +1,10 @@
 
- # Hello everyone <img align="rigth" width="70" height="50" src="https://images.emojiterra.com/google/android-11/512px/1f525.png"> 
+ # Hello everyone <img align="rigth" width="50" height="50" src="https://images.emojiterra.com/google/android-11/512px/1f525.png"> 
  # I'm a Brazilian Computer Networking Student and currently working as Front-End and mobile Trainee at Mestria.
  
   Languages and tools that i'am studing in nowadays:
  
- <img align="left" width="60" height="60" src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png">
+ <img align="left" width="80" height="60" src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png">
  <img align="left" width="60" height="60" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png">
  <img align="left" width="60" height="60" src="https://user-images.githubusercontent.com/63877012/118017180-aef29b00-b32c-11eb-8e6b-4aeb8fcdc533.png">
  <img align="left" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
