@@ -1,8 +1,8 @@
 
- # Hello everyone <img align="rigth" width="50" height="50" src="https://images.emojiterra.com/google/android-11/512px/1f525.png"> 
- # I'm a Brazilian Computer Networking Student and currently studing Web/Mobile Development.
+ # Olá <img align="rigth" width="50" height="50" src="https://images.emojiterra.com/google/android-11/512px/1f525.png"> 
+ # Atualmente me dedico à programação Web.
  
-  Languages and tools that i'am studing in nowadays:
+  Linguagens e ferramentas:
  
  <img align="left" width="60" height="60" src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png">
  <img align="left" width="60" height="60" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png">
