@@ -1,6 +1,6 @@
 
- # Olá <img align="rigth" width="50" height="50" src="https://images.emojiterra.com/google/android-11/512px/1f525.png"> 
- # Atualmente me dedico à programação Web.
+ # Olá,
+ # Sou Gabriel amante da programação e atualmente com foco em desenvolvimento Web.
  
   Linguagens e ferramentas:
  
