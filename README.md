@@ -1,6 +1,6 @@
 
  # Olá,
- # Sou Gabriel, amante da programação e atualmente com foco em desenvolvimento Web.
+ # Sou Gabriel, Analista de desenvolvimento Júnior na VP6.
  
   Linguagens e ferramentas:
  
