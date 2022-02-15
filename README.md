@@ -1,7 +1,7 @@
 
  # Olá,
  # Sou Gabriel, Analista de desenvolvimento Júnior na VP6.
- 
+## gabrielaugustosb13@gmail.com
   Linguagens e ferramentas:
  
  
