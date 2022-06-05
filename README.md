@@ -1,6 +1,6 @@
 
  # Olá,
- # Sou Gabriel, Técnico em Redes de Computadores e Analista de Desenvolvimento Web Júnior na VP6.
+ # Sou Gabriel, Técnico em Redes de Computadores e Desenvolvedor Front-End React na Emcash.
 ## gabrielaugustosb13@gmail.com
   Linguagens e ferramentas:
  
