@@ -1,8 +1,9 @@
 
  # Olá!
  
+ <p align="center">
 <img align="center" width="500" height="380" src="https://user-images.githubusercontent.com/63877012/187077008-12266686-3779-40ea-afc7-27013c238e2c.png">
-
+<p/>
  
  <img align="left" width="60" height="60" src="https://logojinni.com/image/logos/react-446.svg">
  <img align="left" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
