@@ -8,5 +8,6 @@
  
   <p align="center">
   <img align="center" width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=Gabrielcefetzada&show_icons=true&count_private=true&theme=dracula">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcefetzada)](https://github.com/Gabrielcefetzada/github-readme-stats)
 <p/>
 
