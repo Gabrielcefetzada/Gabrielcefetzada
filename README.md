@@ -1,8 +1,7 @@
 
  # Olá!
  
-<img align="center" width="360" height="360" src="https://user-images.githubusercontent.com/63877012/187077008-12266686-3779-40ea-afc7-27013c238e2c.png">
-![image](https://user-images.githubusercontent.com/63877012/187077008-12266686-3779-40ea-afc7-27013c238e2c.png)
+<img align="center" width="450" height="360" src="https://user-images.githubusercontent.com/63877012/187077008-12266686-3779-40ea-afc7-27013c238e2c.png">
 
  
  <img align="left" width="60" height="60" src="https://logojinni.com/image/logos/react-446.svg">
