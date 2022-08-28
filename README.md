@@ -1,8 +1,7 @@
 
  # Olá!
  
- ![image](https://user-images.githubusercontent.com/63877012/187076941-4e47c7f7-712e-477f-a4ec-b18576875edc.png)
-
+<img align="center" width="360" height="360" src="[https://logojinni.com/image/logos/react-446.svg](https://user-images.githubusercontent.com/63877012/187076941-4e47c7f7-712e-477f-a4ec-b18576875edc.png)">
  
  <img align="left" width="60" height="60" src="https://logojinni.com/image/logos/react-446.svg">
  <img align="left" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
