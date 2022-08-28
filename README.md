@@ -7,6 +7,6 @@
 <p/>
  
   <p align="center">
- ![Gabrielcefetzada Status](https://github-readme-stats.vercel.app/api?username=Gabrielcefetzada&show_icons=true&count_private=true&theme=dracula)
+  <img align="center" width="600" height="280" src="https://github-readme-stats.vercel.app/api?username=Gabrielcefetzada&show_icons=true&count_private=true&theme=dracula">
 <p/>
 
