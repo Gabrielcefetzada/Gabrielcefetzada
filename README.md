@@ -5,13 +5,13 @@
 <img align="center" width="500" height="380" src="https://user-images.githubusercontent.com/63877012/187077008-12266686-3779-40ea-afc7-27013c238e2c.png">
 <p/>
  
- <p align="center">
- <img align="left" width="60" height="60" src="https://logojinni.com/image/logos/react-446.svg">
- <img align="left" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
- <img align="left" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
-  <img align="left" width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/django.svg">
- <img align="left" width="60" height="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
- <img align="left" width="80" height="60" src="https://devtools.com.br/blog/wp-content/uploads/2013/06/MySQL-Logo.wine_.png">
- <img align="left" width="60" height="60" src="https://skeptric.com/images/pandas.png">
+<p align="center">
+ <img align="center" width="60" height="60" src="https://logojinni.com/image/logos/react-446.svg">
+ <img align="center" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+ <img align="center" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
+  <img align="center" width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/django.svg">
+ <img align="center" width="60" height="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+ <img align="center" width="80" height="60" src="https://devtools.com.br/blog/wp-content/uploads/2013/06/MySQL-Logo.wine_.png">
+ <img align="center" width="60" height="60" src="https://skeptric.com/images/pandas.png">
 <p/>
 
