@@ -11,14 +11,7 @@ GitHub Streak             |  Gabriel GitHub stats
 :-------------------------:|:-------------------------:
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabrielcefetzada&theme=synthwave&hide_border=true)](https://git.io/streak-stats) | ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielcefetzada&show_icons=true&count_private=true&theme=dracula)
 
- <!-- <img align="center" width="50" height="50" src="![image](https://user-images.githubusercontent.com/63877012/202879719-1d12e120-c119-426d-b501-3454935b4b2c.png)">
-
-  <img align="center" width="50" height="50" src="![image](https://user-images.githubusercontent.com/63877012/202879762-caa6b1ce-49bc-49ef-9d43-258b199a46ec.png)">
-
-  <img align="center" width="80" height="50" src="![image](https://user-images.githubusercontent.com/63877012/202879786-06c8bdee-af43-48c3-b166-2f575bb11d8d.png)">
-
-
-  <img align="center" width="80" height="50" src="![image](https://user-images.githubusercontent.com/63877012/202879805-ed02e7d9-8373-499a-929b-f99512273fb4.png)">
-
-
-  <img align="center" width="50" height="50" src="![image](https://user-images.githubusercontent.com/63877012/202879823-13ab2c12-e8f4-4aa1-aab2-609f8e48ad00.png)"> -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/> </a>   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /> </a> 
+<img src="[https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)" alt="terminal" /> 
+</p>
