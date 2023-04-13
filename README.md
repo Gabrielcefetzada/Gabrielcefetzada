@@ -36,7 +36,7 @@ GitHub Streak             |  Gabriel GitHub stats
 :-------------------------:|:-------------------------:
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabrielcefetzada&theme=synthwave&hide_border=true)](https://git.io/streak-stats) | ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielcefetzada&show_icons=true&count_private=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcefetzada&layout=compact)](https://github.com/Gabrielcefetzada/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielcefetzada&show_icons=true)](https://github.com/Gabrielcefetzada)
 
 
 <h3 align="center">Languages and Tools:</h3>
