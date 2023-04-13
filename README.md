@@ -2,7 +2,7 @@
   ⭐⭐ Hello everyone ⭐⭐
 </h1>
  
-  ```
+  ```php
     <?php
     class Education {
       public string $area;
