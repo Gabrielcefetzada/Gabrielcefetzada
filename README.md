@@ -3,7 +3,35 @@
 </h1>
  
  <p align="center">
-<img align="center" width="480" height="300" src="https://user-images.githubusercontent.com/63877012/222994705-741935e2-6af4-45c5-8232-b03143092445.png">
+  ```php
+<?php
+class Education {
+  public string $area;
+  public string $institution;
+  public string $degree;
+  public string $status;
+
+  public function __construct(string $area, string $degree, string $institution, string $status) {
+    $this->area = $area;
+    $this->institution = $institution;
+    $this->degree = $degree;
+    $this->status = $status;
+  }
+}
+
+$gabriel = [
+  'age' => 20,
+  'location' => 'Brazil',
+  'currentJob' => 'Back-End Software Developer',
+  'education' => [
+    new Education('Computer Network', 'Technical', 'CEFET-MG', 'Graduated'),
+    new Education('Software Engineering', 'BS', 'PUC Minas', 'Enrolled')
+  ]
+];
+
+var_dump($gabriel);
+?>
+  ```
 <p/>
  
 
