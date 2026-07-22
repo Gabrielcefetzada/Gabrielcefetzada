@@ -21,10 +21,10 @@
     $gabriel = [
       'age' => 23,
       'location' => 'Brazil',
-      'currentJob' => 'Back-End PHP Software Developer',
+      'currentJob' => 'Back-End Software Developer',
       'education' => [
         new Education('Computer Network', 'Technical', 'CEFET-MG', 'Graduated'),
-        new Education('Software Engineering', 'BS', 'PUC Minas', 'Enrolled')
+        new Education('Software Engineering', 'BS', 'PUC Minas', 'Graduated')
       ]
     ];
 
